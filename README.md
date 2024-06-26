@@ -1,4 +1,7 @@
-![Banner](banner.png)
+  ||BB![Banner](banner.png)
+
+
+  
 
 # Um pouco sobre mim...
 
@@ -10,4 +13,6 @@ Como estudante de Psicologia, tenho interesse em aprender e desenvolver as habil
 
 Estou comprometido com a aprendizagem contínua e sempre aberto a novas oportunidades que me permitam crescer tanto profissional quanto pessoalmente nesse campo apaixonante. Amo desafios! 💪🔥
 
-Se você está procurando um Data Analyst/Scientist para colaborar em projetos relacionados, não hesite em me contatar através do meu e-mail [rosenblunn@proton.me](mailto:rosenblunn@proton.me)! 📩
+
+
+Se você está procurando um Data Analyst/Scientist para colaborar em projetos relacionados, não hesite em me contatar através do meu e-mail [rosenblunn@proton.me](mailto:srosenblunn@gmail.com)! 📩
